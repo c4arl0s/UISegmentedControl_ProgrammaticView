@@ -5,6 +5,8 @@
 
 ![Screen Shot 2019-12-11 at 20 49 16](https://user-images.githubusercontent.com/24994818/70678451-bf927380-1c57-11ea-964d-06ebef2f5554.png)
 
+![Screen Shot 2019-12-11 at 20 52 42](https://user-images.githubusercontent.com/24994818/70678811-c40b5c00-1c58-11ea-8a1f-cede7b9005ab.png)
+
 ``` swift
 //
 //  ViewController.swift
