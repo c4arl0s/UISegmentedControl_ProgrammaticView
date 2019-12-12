@@ -5,7 +5,6 @@
 
 ![Screen Shot 2019-12-11 at 20 49 16](https://user-images.githubusercontent.com/24994818/70678451-bf927380-1c57-11ea-964d-06ebef2f5554.png)
 
-
 ``` swift
 //
 //  ViewController.swift
