@@ -1,5 +1,10 @@
 # UISegmentedControl_ProgrammaticView
-A UISegmentedControl is a subclass of UIControl.
+
+- A UISegmentedControl is a subclass of UIControl. 
+- Constrols are responsible for calling methods on their target in response to some event.
+
+
+
 
 ``` swift
 //
