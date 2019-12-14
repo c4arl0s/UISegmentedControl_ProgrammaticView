@@ -71,3 +71,5 @@ class ViewController: UIViewController {
 ```
 
 ![Screen Shot 2019-12-11 at 20 58 19](https://user-images.githubusercontent.com/24994818/70678873-fb7a0880-1c58-11ea-8db0-03c408d31e4d.png)
+
+# segmentedControl.translatesAutoresizingMaskIntoConstraints = false
