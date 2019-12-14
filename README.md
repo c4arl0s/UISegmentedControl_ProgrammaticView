@@ -44,6 +44,7 @@ class ViewController: UIViewController {
         let leadingConstraint = segmentedControl.leadingAnchor.constraint(equalTo: view.layoutMarginsGuide.leadingAnchor)
         let trailingConstraint = segmentedControl.trailingAnchor.constraint(equalTo: view.layoutMarginsGuide.trailingAnchor)
         
+        // activate them
         topConstraint.isActive = true
         leadingConstraint.isActive = true
         trailingConstraint.isActive = true
